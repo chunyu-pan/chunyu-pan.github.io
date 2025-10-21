@@ -26,7 +26,7 @@ Early Intervention Unit
 _Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
 
 ## Publications
-(2025).	**Chunyu Pan**, Xizhe Zhang*, Haoyu Zheng, Yan Zhang, Zhao Su, Changsheng Zhang, Weixiong Zhang. "_Adaptive control of dynamic networks._" <u>IEEE Transactions on Network Science and Engineering</u>. 2025.
+(2025).	**Chunyu Pan**, Xizhe Zhang*, Haoyu Zheng, Yan Zhang, Zhao Su, Changsheng Zhang, Weixiong Zhang. "_Adaptive control of dynamic networks._" <u>IEEE Transactions on Network Science and Engineering</u>. 2025, JCR Q1, IF=7.9.
 
 (2024). Yao Xiao<sup>†</sup>, Shuai Dong<sup>†</sup> , **Chunyu Pan** , Huiling Guo , Lili Tang , Xizhe Zhang* , Fei Wang* . "_Effectiveness of non-invasive brain stimulation on depressive symptoms targeting prefrontal cortex in functional magnetic resonance imaging studies: a combined systematic review and meta-analysis._"  <u>Psychoradiology</u>. 2024.
 
