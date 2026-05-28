@@ -26,7 +26,7 @@ Early Intervention Unit
 _Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
 
 ## Publications
-(2026).	Lifei Wang, Hui Xue, Tianyou Fu, Xiaohong Gong, Rongxin Zhu, Jia Duan, **Chunyu Pan**, Jingshuai Zhou, Zexin Lin, Wei Du*, Fei Wang*. "_Efficacy and safety of pharmacological and non-invasive brain stimulation for adolescent bipolar depression: a systematic review and network meta-analysis._" <u>International Journal of Bipolar Disorders</u>. 2026, JCR Q1, IF=3.5.
+(2026).	Lifei Wang, Hui Xue, Tianyou Fu, Xiaohong Gong, Rongxin Zhu, Jia Duan, **Chunyu Pan**, Jingshuai Zhou, Zexin Lin, Wei Du* , Fei Wang* . "_Efficacy and safety of pharmacological and non-invasive brain stimulation for adolescent bipolar depression: a systematic review and network meta-analysis._" <u>International Journal of Bipolar Disorders</u>. 2026, JCR Q1, IF=3.5.
 
 (2025).	**Chunyu Pan**, Xizhe Zhang*, Haoyu Zheng, Yan Zhang, Zhao Su, Changsheng Zhang, Weixiong Zhang. "_Adaptive control of dynamic networks._" <u>IEEE Transactions on Network Science and Engineering</u>. 2025, JCR Q1, IF=7.9.
 
