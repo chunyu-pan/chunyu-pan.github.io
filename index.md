@@ -23,7 +23,7 @@ The Affiliated Brain Hospital of Nanjing Medical University<br>
 Early Intervention Unit
 
 ## Research interests
-_Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
+_Network Science_, _Computational Psychiatry_, _Computational Cognitive Neuroscience_
 
 ## Publications
 (2026).	Lifei Wang, Hui Xue, Tianyou Fu, Xiaohong Gong, Rongxin Zhu, Jia Duan, **Chunyu Pan**, Jingshuai Zhou, Zexin Lin, Wei Du* , Fei Wang* . "_Efficacy and safety of pharmacological and non-invasive brain stimulation for adolescent bipolar depression: a systematic review and network meta-analysis._" <u>International Journal of Bipolar Disorders</u>. 2026, JCR Q1, IF=3.5.
